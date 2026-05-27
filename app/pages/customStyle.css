@@ -1,0 +1,19 @@
+.custom-container{
+    width: 100%;
+    max-width: 1500px;
+    margin: 0 auto;
+}
+.custom-container2{
+    width: 90%;
+    max-width: 1500px;
+    margin: 0 auto;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+
+h1, h2 {
+  font-family: "Roboto", sans-serif;
+}

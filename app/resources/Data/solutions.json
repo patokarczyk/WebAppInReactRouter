@@ -1,0 +1,95 @@
+[
+    {
+        "id": 1,
+        "title": "Product preview card",
+        "text": "I opted to just change the layout from vertical to horizontal using a media query, not sure if there's a clever way to",
+        "icon": "/images/Solutions1.webp",
+        "fullText": [
+            "I am proud of the amount of work I believe to have put into this project. It was one that required me to learn about JavaScript and the use of it in HTML and CSS.",
+            "I had coding issues with the error and success messages that would be popped dynamically by JavaScript. On this, I had to learn, watch videos on YouTube on how to arrive with the solution.",
+            "Concerning the width and height of the project or the sizing, yeah i believe I would need extra help for precision on it."
+        ],
+        "profilepicture": "https://avatars.githubusercontent.com/u/42166884?v=4",
+        "profileName": "decorator-factory",
+        "comments": 2,
+        "likes": 3,
+        "feedbackRequested": true
+    },
+    {
+        "id": 2,
+        "title": "Grid Css, Flexbox, Sass",
+        "text": "Nothing, but I would like to learn how to use JavaScript in my projects.",
+        "icon": "/images/Solutions2.webp",
+        "fullText": [
+            "building a calculator",
+             "Refreshing my Javascript skills, I overcame them by Googling.", 
+             "Getting the calculator to fully function."],
+        "profilepicture": "https://avatars.githubusercontent.com/u/198780134?v=4",
+        "profileName": "Elahe",
+        "comments": 0,
+        "likes": 0,
+        "feedbackRequested": true
+    },
+    {
+        "id": 3,
+        "title": "Rest countries",
+        "text": "I really need to work on my ts skills.",
+        "icon": "/images/Solutions3.webp",
+        "fullText": [
+            "Using React to create a FEM project.", 
+            "Initially it was difficult to think about state and how that would affect the UI as I am used to manipulating the DOM directly to see changes. After some practice it became more intuitive.", 
+            "If you click on 'Add to Cart', the selected product's image will show a red border around it to indicate selection. If you zoom in close you will notice that there is a slight gap between the border and the image."
+        ],
+        "profilepicture": "https://avatars.githubusercontent.com/u/156822689?v=4",
+        "profileName": "AmirHHma",
+        "comments": 2,
+        "likes": 1,
+        "feedbackRequested": true
+    },
+    {
+        "id": 4,
+        "title": "Responsive page using css",
+        "text": "Understanding Styling more.",
+        "icon": "/images/Solutions4.webp",
+        "fullText":  [
+            "Using React to create a FEM project.", 
+            "Initially it was difficult to think about state and how that would affect the UI as I am used to manipulating the DOM directly to see changes. After some practice it became more intuitive.", 
+            "If you click on 'Add to Cart', the selected product's image will show a red border around it to indicate selection. If you zoom in close you will notice that there is a slight gap between the border and the image."
+        ],
+        "profilepicture": "https://avatars.githubusercontent.com/u/189290841?v=4",
+        "profileName": "A4adella",
+        "comments": 2,
+        "likes": 2,
+        "feedbackRequested": true
+    },
+    {
+        "id": 5,
+        "title": "Calculator HTML + CSS",
+        "text": "Making my javascript fully functional.",
+        "icon": "/images/Solutions5.webp",
+        "fullText": ["building a calculator",
+             "Refreshing my Javascript skills, I overcame them by Googling.", 
+             "Getting the calculator to fully function."],
+        "profilepicture": "https://avatars.githubusercontent.com/u/26755675?v=4",
+        "profileName": "jovic-djordje",
+        "comments": 2,
+        "likes": 1,
+        "feedbackRequested": false
+    },
+    {
+        "id": 6,
+        "title": "Meet Landing Page: React + TailwindCSS",
+        "text": "I have noticed in most of my projects that I tend to put everything in a div immediately and give it the tailwind",
+        "icon": "/images/Solutions6.webp",
+        "fullText": [
+            "I am proud of the amount of work I believe to have put into this project. It was one that required me to learn about JavaScript and the use of it in HTML and CSS.",
+            "I had coding issues with the error and success messages that would be popped dynamically by JavaScript. On this, I had to learn, watch videos on YouTube on how to arrive with the solution.",
+            "Concerning the width and height of the project or the sizing, yeah i believe I would need extra help for precision on it."
+        ],
+        "profilepicture": "https://avatars.githubusercontent.com/u/169392458?v=4",
+        "profileName": "ryanslabroom",
+        "comments": 2,
+        "likes": 1,
+        "feedbackRequested": false
+    }
+]

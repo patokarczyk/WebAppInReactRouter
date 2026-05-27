@@ -1,0 +1,17 @@
+.my-collapse-style {
+    visibility: visible;
+}
+
+.font-of-nav{
+    font-weight: 700;
+    font-style: italic;
+    
+}
+
+.nav-link.dropdown-toggle, .dropdown-item{
+    font-weight: 700;
+}
+
+body{
+    background-color: rgb(236, 235, 235);
+}
